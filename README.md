@@ -4,7 +4,7 @@
 
 ### Description
 
-_This is a web application that provides an API calls to search for weather information for different cities. 
+This is a web application that provides an API calls to search for weather information for different cities. 
 
 ## Setup/Installation Requirements
 
